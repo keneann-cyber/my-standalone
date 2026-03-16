@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1773697013942,
+    "name": "Abel",
+    "skill": "Plumber",
+    "location": "Addis Ababa",
+    "experience": 4
+  },
+  {
+    "id": 1773697031743,
+    "name": "chaltu",
+    "skill": "maid",
+    "location": "Addis Ababa",
+    "experience": 4
+  },
+  {
+    "name": "felekech",
+    "skill": "maid",
+    "location": "Addis Ababa",
+    "experience": 4,
+    "id": "M002"
+  },
+  {
+    "name": "girma",
+    "skill": "gate keeper",
+    "location": "Addis Ababa",
+    "experience": 4,
+    "id": "G001"
+  },
+  {
+    "name": "girma",
+    "skill": "gate keeper",
+    "location": "Addis Ababa",
+    "experience": 4,
+    "email": "girma@example.com",
+    "phone": "1234567890",
+    "id": "G002"
+  }
+]
